@@ -4,7 +4,6 @@
 
 Comparing global canopy height (Lang et al. 2023) and LiDAR data.
 
-#+attr_html: width 50%
 [[file:outputs/gch_chm.png]]
 
 
